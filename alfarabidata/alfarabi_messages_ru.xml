@@ -33,6 +33,24 @@
 
 
 
+  <data name="ru_controlBar_classicprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="ru_controlBar_classicnextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="ru_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="ru_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="ru_controlBar_classicmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="ru_controlBar_classicmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="ru_controlBar_classicmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="ru_controlBar_classicmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="ru_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="ru_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="ru_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="ru_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="ru_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="ru_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="ru_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="ru_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="ru_controlBar_classicctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="ru_controlBar_classicctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
 
 
   <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
